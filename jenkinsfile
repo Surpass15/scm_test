@@ -8,4 +8,5 @@ node {
     stage('ファイル確認') {
         sh 'ls -l'
     }
+
 }
