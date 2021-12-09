@@ -17,4 +17,7 @@ node {
     stage('てきとう'){
         sh 'echo "大成功！！"'
     }
+    stage('てきとう'){
+        sh 'echo "大成功！！"'
+    }
 }
