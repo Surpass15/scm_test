@@ -8,5 +8,7 @@ node {
     stage('ファイル確認') {
         sh 'ls -l'
     }
-
+    stage('てきとう'){
+        sh 'echo "大成功！！"'
+    }
 }
